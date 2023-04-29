@@ -1,4 +1,4 @@
-# len-nie.github.io
+easyRecipe
 
 With easyRecipe, you can easily obtain the necessary recipes to take your cooking skills to the next level, or maybe just find a meal when you have no idea what you want to cook.
 
