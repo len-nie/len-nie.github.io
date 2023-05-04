@@ -14,7 +14,7 @@ function displayText() {
 }
 
 async function fetchRecipes(query) {
-	const response = await fetch(`${baseUrl}&query=${query}`);
+	const response = await fetch(`${baseUrl}&query=${rice}`);
 	const jsonData = await response.json();
 
 	console.log(jsonData);
